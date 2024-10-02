@@ -38,6 +38,21 @@ environments:
           # ...
 ```
 
+### 🔃 Contributing
+
+Refer to our [documentation for contributors][contributing] for contributing guidelines, commit message
+formats and versioning tips.
+
+### 📥 Maintainers
+
+This project is owned and maintained by [FMJ Studios][org] refer to the [`AUTHORS`][authors] or [`CODEOWNERS`][owners]
+for more information. You may also use the linked contact details to reach out directly.
+
+### ©️ Copyright
+
+- _Assets provided by:_ **[Helmfile][helmfile]**
+
+
 <!-- INTERNAL REFERENCES -->
 
 <!-- Chart references -->
@@ -45,8 +60,13 @@ environments:
 <!-- File references -->
 
 [license]: LICENSE
+[contributing]: docs/CONTRIBUTING.md
+[authors]: .github/AUTHORS
+[owners]: .github/CODEOWNERS
 
 <!-- General links -->
+
+[org]: https://github.com/fmjstudios
 
 [kubernetes]: https://kubernetes.io
 
