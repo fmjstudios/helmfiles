@@ -1,11 +1,13 @@
 # Helmfiles <img src="https://avatars.githubusercontent.com/u/83191469?s=200&v=4" alt="Helm Logo" align="right" width="200"/>
 
-[![License](https://img.shields.io/github/license/fmjstudios/helmfiles?label=License)](https://opensource.org/licenses/MIT)
-[![Language](https://img.shields.io/github/languages/top/fmjstudios/gopskit?label=Go&logo=go)][go]
+[![License](https://img.shields.io/github/license/fmjstudios/helmfiles?label=License)][license]
+[![Helmfile](https://img.shields.io/badge/Helmfile-v0.150.0-1B53C2)][helmfile]
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-v1.26-326CE5?logo=kubernetes&logoColor=FFFFFF)][kubernetes]
 [![GitHub Release](https://img.shields.io/github/v/release/fmjstudios/helmfiles?label=Release)][github_releases]
 [![GitHub Activity](https://img.shields.io/github/commit-activity/m/fmjstudios/helmfiles?label=Commits)][github_commits]
 [![Renovate](https://img.shields.io/badge/Renovate-enabled-brightgreen?logo=renovate&logoColor=1A1F6C)][renovate]
 [![PreCommit](https://img.shields.io/badge/PreCommit-enabled-brightgreen?logo=precommit&logoColor=FAB040)][precommit]
+
 
 This repository contains our collection of [Helm][helm] charts configured for use with the [`helmfile`][helmfile]
 command-line utility. `helmfile` is a declarative spec for deploying Helm charts to [Kubernetes][kubernetes] clusters,
@@ -53,6 +55,12 @@ environments:
 [helm]: https://helm.sh
 
 <!-- Overview links -->
+
+[go]: https://go.dev
+
+[github_releases]: https://github.com/fmjstudios/helmfiles/releases
+
+[github_commits]: https://github.com/fmjstudios/helmfiles/commits/main/
 
 [renovate]: https://renovatebot.com/
 
